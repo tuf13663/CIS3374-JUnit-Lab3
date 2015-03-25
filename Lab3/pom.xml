@@ -23,4 +23,17 @@
   	</build>
   
   
+  	<dependencies>
+  		<dependency>
+  			<groupId>JUnit</groupId>
+  			<artifactId>JUnit</artifactId>
+  			<version>4.12</version>
+  		</dependency>
+  		<dependency>
+  			<groupId>pl.pragmatists</groupId>
+  			<artifactId>JUnitParams</artifactId>
+  			<version>1.0.2</version>
+  			<scope>test</scope>
+  		</dependency>
+  	</dependencies>
 </project>
